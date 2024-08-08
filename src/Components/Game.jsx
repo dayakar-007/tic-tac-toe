@@ -35,7 +35,7 @@ export default function Game() {
         return <li key={index}><button onClick={()=>showHistory(index)}>{description}</button></li>;
 
 });
-console.log(his);
+
     const winner=(box)=>{
             
             const Lines=[

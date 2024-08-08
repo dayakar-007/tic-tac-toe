@@ -6,3 +6,4 @@ export default defineConfig({
   base:"/tic-tac-toe/",
   plugins: [react()],
 })
+
