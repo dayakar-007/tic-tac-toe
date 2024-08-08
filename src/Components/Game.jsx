@@ -36,6 +36,9 @@ export default function Game() {
 
 });
 
+
+
+
     const winner=(box)=>{
             
             const Lines=[
